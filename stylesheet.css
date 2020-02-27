@@ -15,6 +15,10 @@ body {
 	font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
+p1 {
+	font-size: 20px;
+}
+
 a:link {
 	color: aqua;
 	text-decoration: none;
@@ -50,4 +54,23 @@ a:hover {
 	font-style: normal;
 	font-weight: 700;
 		
+}
+.TextBox {
+	background-color: #ffffff;
+	position: absolute;
+	width: auto;
+	text-align: center;
+	border: 3px #000000;
+	padding: 5px 25px 25px;
+	border-style: groove;
+	z-index: 998;
+	box-sizing:content-box;
+}
+.ProfilePages {
+	margin-top: 350px;
+	margin-left: 150px;
+}
+.Downloads {
+	margin-top: 350px;
+	margin-left: 150px;
 }
