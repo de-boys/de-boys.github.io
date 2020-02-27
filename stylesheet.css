@@ -65,6 +65,7 @@ a:hover {
 	border-style: groove;
 	z-index: 998;
 	box-sizing:content-box;
+	margin-top: 55px;
 }
 .ProfilePages {
 	margin-top: 350px;
